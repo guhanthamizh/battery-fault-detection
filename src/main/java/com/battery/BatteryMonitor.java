@@ -9,7 +9,7 @@ public class BatteryMonitor {
         double current = 15.0;
         double temperature = 30.0;
 
-        System.out.println("BATTERY FAULT DETECTION SYSTEM");
+        System.out.println("BATTERY FAULT DETECTION SYSTEM!");
         System.out.println("--------------------------------");
 
         System.out.println("Voltage: " + voltage + " V");
